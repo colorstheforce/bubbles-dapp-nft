@@ -34,7 +34,7 @@
     "gatsby-remark-prismjs": "^4.0.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-rehype": "^2.0.0",
-    "gatsby-transformer-remark": "^3.0.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.0.0",
     "https-browserify": "^1.0.0",
     "ipfs-http-client": "^49.0.4",
